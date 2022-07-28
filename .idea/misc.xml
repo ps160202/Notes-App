@@ -5,11 +5,10 @@
       <map>
         <entry key="..\:/Android Projects/Notes-App/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Android Projects/Notes-App/app/src/main/res/menu/header_items.xml" value="0.24895833333333334" />
-        <entry key="..\:/Users/prath/Documents/Programming/Android/NotesApp/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">
